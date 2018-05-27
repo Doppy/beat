@@ -1,0 +1,7 @@
+{
+  "alias": [
+    "beat",
+    "beat-dev"
+  ],
+  "forwardNpm": true
+}
